@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tic_tac_toe</string>
+    <string name="GNAME">TIC TAC TOE</string>
+    <string name="RESTART">RESTART GAME</string>
+    <string name="option_chose">Choose your first option\n"               "x for X\n"               "o for O</string>
+    <string name="take_option">Enter your option first</string>
+</resources>
